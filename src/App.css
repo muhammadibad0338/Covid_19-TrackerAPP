@@ -1,0 +1,18 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #fafafa;
+}
+.selectbox{
+  max-width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading{
+  text-align: center;
+}
+.mainhead{
+  text-align: center;
+  color: #19179a;
+}
